@@ -1,0 +1,8 @@
+streamlit
+edge-tts>=6.1.10
+gTTS
+numpy
+Pillow>=10.4.0
+imageio-ffmpeg
+requests
+pyyaml
